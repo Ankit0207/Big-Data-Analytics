@@ -1,7 +1,35 @@
 #Big Data Analytics Programs
 
+#TASK 1 : 
+
 Create a dataframe “daily_active_users”. Find out the users who are active in at least five listed days.
 i.e. created posts in at least 5 days) in Amazon_Responded_Oct05.csv.
 Save their “user_screen_name” and “user_id_str” in the dataframe.
 
 ![GitHub Logo](/output1.JPG)
+
+#TASK 2 :
+
+A company would like to conduct an A/B test on Twitter. The experiment.txt file includes the user_id_str they selected as potential experiment targets.
+
+Please create a dataframe “experiment_user” to document the select user id and whether they are active users (join the dataframe from step 1).
+
+![GitHub Logo](/output2.JPG)
+
+Then Calculate the percentage of active user and print out the result.
+
+![GitHub Logo](/output2b.JPG)
+
+#TASK 3 :
+
+To help the company prepare the data, please select the records (all columns) in Amazon_Responded_Oct05.csv when a user_id_str is included in all the 2 dataframes.
+
+For example, if the user_id_str from Amazon_Responded_Oct05.csv cannot be found in daily_active_user and experiment_user, you should skip. 
+
+![GitHub Logo](/output3.JPG)
+
+Save the result in a dataframe and then export it as Amazon_new.csv
+
+![GitHub Logo](/final.JPG)
+
+
