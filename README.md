@@ -8,7 +8,7 @@ Save their “user_screen_name” and “user_id_str” in the dataframe.
 
 ![GitHub Logo](/output1.JPG)
 
-#TASK 2 :
+<h2>TASK 2 :</h2>
 
 A company would like to conduct an A/B test on Twitter. The experiment.txt file includes the user_id_str they selected as potential experiment targets.
 
@@ -20,7 +20,7 @@ Then Calculate the percentage of active user and print out the result.
 
 ![GitHub Logo](/output2b.JPG)
 
-#TASK 3 :
+<h2>TASK 3 :</h2>
 
 To help the company prepare the data, please select the records (all columns) in Amazon_Responded_Oct05.csv when a user_id_str is included in all the 2 dataframes.
 
