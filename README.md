@@ -1,5 +1,10 @@
 <h1>Big Data Analytics Programs</h1>
 
+<h2> OBJECTIVE </h2>
+
+Amazon is conducting an experiment on potential target users and want to know if customers list which they have are ACTIVE users or not. 
+All of the customers Amazon related tweets is stored in a CSV file. Using this file create a dataframe which contains all the potential customers who are ONLY ACTIVE users. This will help Amazon is focusing more on these customers.
+
 <h2>TASK 1 :</h2>
 
 Create a dataframe “daily_active_users”. Find out the users who are active in at least five listed days.
